@@ -4,6 +4,5 @@ def inverter_string(string):
         invertida = char + invertida
     return invertida
 
-# Entrada
 texto = input("Digite uma string: ")
 print("String invertida:", inverter_string(texto))
